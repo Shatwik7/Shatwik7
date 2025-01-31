@@ -59,11 +59,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="50" alt="digitalocean logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Shatwik7/Shatwik7/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/shatwik-pandey-93890629b/" target="_blank">
