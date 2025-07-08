@@ -1,8 +1,5 @@
 <br clear="both">
-
 <h2 align="center">Hi 👋 I'm Shatwik — A Techie from Kochi, Kerala 🚀</h2>
-
----
 <div align="center">
 
 I don't like painting, neither dancing nor playing sports.  
